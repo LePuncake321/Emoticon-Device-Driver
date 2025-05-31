@@ -3,4 +3,4 @@ An device driver that transcribe alphabetical characters, both lowercase and upp
 
 Note that this device driver was made to be used in a Linux Virtual Machine Environment.
 
-Instructions to install/uninstall the device driver, as well as to use it in your program, are in the PDF file under the section "Screenshot of compilation"
+Instructions to install/uninstall the device driver, as well as to use it in your program, are in the PDF file starting from page 27
